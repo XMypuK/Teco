@@ -192,6 +192,6 @@ class Program {
 }
 ```
 
-##License
+## License
 
 This project is under [MIT License](LICENSE)
