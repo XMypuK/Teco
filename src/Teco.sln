@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teco", "Teco\Teco.csproj", "{C65032BD-2FF7-4CE0-BA2F-F04C278884E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teco.Tests", "Teco.Tests\Teco.Tests.csproj", "{2075A2E8-9226-4349-B602-74000699D17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C65032BD-2FF7-4CE0-BA2F-F04C278884E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65032BD-2FF7-4CE0-BA2F-F04C278884E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65032BD-2FF7-4CE0-BA2F-F04C278884E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65032BD-2FF7-4CE0-BA2F-F04C278884E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2075A2E8-9226-4349-B602-74000699D17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2075A2E8-9226-4349-B602-74000699D17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2075A2E8-9226-4349-B602-74000699D17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2075A2E8-9226-4349-B602-74000699D17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD59DC39-A19F-46AF-8BC5-0AF7FF8F69BA}
+	EndGlobalSection
+EndGlobal

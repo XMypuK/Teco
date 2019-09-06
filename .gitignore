@@ -1,0 +1,8 @@
+*.licenseheader
+*.suo
+*.user
+.vs/
+.vscode/
+/src/packages/
+**/bin/
+**/obj/
