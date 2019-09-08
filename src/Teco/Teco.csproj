@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFrameworks>net35;net40;net45;netcoreapp2.0;netcoreapp2.1;netcoreapp2.2</TargetFrameworks>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>Teco.Development.snk</AssemblyOriginatorKeyFile>
+    <DelaySign>false</DelaySign>
   </PropertyGroup>
 
   <ItemGroup Condition="'$(TargetFramework)' == 'net35'">
