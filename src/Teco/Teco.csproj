@@ -5,6 +5,17 @@
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>Teco.Development.snk</AssemblyOriginatorKeyFile>
     <DelaySign>false</DelaySign>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Evgenii Zeiler</Authors>
+    <Company />
+    <Description>A little template engine for .NET</Description>
+    <Copyright>Copyright 2019</Copyright>
+    <PackageLicenseFile></PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/XMypuK/Teco</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/XMypuK/Teco</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>template engine compiler .NET message email</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup Condition="'$(TargetFramework)' == 'net35'">
